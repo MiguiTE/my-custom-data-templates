@@ -1,2 +1,2 @@
 bucket = "gc-tfstate-${project id}" #TODO: assign project id
-preffix = "process/opportunity"
+prefix = "process/opportunity"
